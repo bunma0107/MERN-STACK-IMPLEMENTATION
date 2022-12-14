@@ -58,6 +58,15 @@ cd models
 touch todo.js
 ![image](https://user-images.githubusercontent.com/113097621/207410534-c6d9ad4e-32cc-41e5-9b2f-c204c7f14264.png)
 
+vim todo.js
+vim api.js
+![image](https://user-images.githubusercontent.com/113097621/207549790-e68e48b5-378c-45ce-a40b-8524e59a7c6f.png)
+
+node index.js
+![image](https://user-images.githubusercontent.com/113097621/207552425-431df0ac-82d8-4953-aaf8-064b980ac9e2.png)
+
+To Open Postman, create a POST request to the API
+
 
 
 
