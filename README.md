@@ -64,8 +64,11 @@ vim api.js
 
 node index.js
 ![image](https://user-images.githubusercontent.com/113097621/207552425-431df0ac-82d8-4953-aaf8-064b980ac9e2.png)
+![image](https://user-images.githubusercontent.com/113097621/207802077-297a27cb-6d82-437d-bf4c-d6bd50be217e.png)
+
 
 To Open Postman, create a POST request to the API
+
 
 
 
