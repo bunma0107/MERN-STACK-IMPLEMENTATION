@@ -71,6 +71,12 @@ To Open Postman, create a POST request to the API
 
 
 
+Running a React App
+Install concurrently
+![image](https://user-images.githubusercontent.com/113097621/208098410-143e5fff-ed74-4990-b577-647dcb0b2635.png)
+
+
+
 
 
 
