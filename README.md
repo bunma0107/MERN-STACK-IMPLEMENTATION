@@ -68,6 +68,8 @@ node index.js
 
 
 To Open Postman, create a POST request to the API
+![image](https://user-images.githubusercontent.com/113097621/208472574-c2ca2b08-4f1a-4c6d-9089-e45c4eed09df.png)
+
 
 
 
@@ -75,7 +77,42 @@ Running a React App
 Install concurrently
 ![image](https://user-images.githubusercontent.com/113097621/208098410-143e5fff-ed74-4990-b577-647dcb0b2635.png)
 
+Step 2 – Frontend creation
+![image](https://user-images.githubusercontent.com/113097621/208476181-029d7257-c833-4b95-951a-38c6c0ee718a.png)
 
+![image](https://user-images.githubusercontent.com/113097621/208476680-404969bb-e766-400c-b323-8ac256fc5f59.png)
+
+Running a React App
+![image](https://user-images.githubusercontent.com/113097621/208477118-45f71521-fbdc-43f8-80fc-f95e8dc1febb.png)
+
+![image](https://user-images.githubusercontent.com/113097621/208477400-ce2fe623-96b2-4a0c-a82c-13ba9007822b.png)
+
+npm run dev
+![image](https://user-images.githubusercontent.com/113097621/208482974-e1e937e7-14ff-4cd4-adba-3dc7e9c38c0c.png)
+
+cd client
+![image](https://user-images.githubusercontent.com/113097621/208483955-6cd6d627-800e-424e-8d8e-768e9ee607f6.png)
+
+Install Axios
+![image](https://user-images.githubusercontent.com/113097621/208484153-33887691-3189-4918-8020-3d3264715220.png)
+
+
+Go to ‘components’ directory
+cd src/components
+
+![image](https://user-images.githubusercontent.com/113097621/208488069-8cd11bff-2caf-4fb7-afa7-f97e2528c24c.png)
+
+![image](https://user-images.githubusercontent.com/113097621/208488182-be1a8082-ce1f-40a6-9c46-70e2bf15feb0.png)
+
+![image](https://user-images.githubusercontent.com/113097621/208488412-0b366f18-4d48-4d2b-92a2-b36d85378102.png)
+
+![image](https://user-images.githubusercontent.com/113097621/208488297-06110e44-d34c-4393-ab63-7abd2addc2b2.png)
+
+
+
+
+npm run dev
+![image](https://user-images.githubusercontent.com/113097621/208486880-b424218c-8c17-420f-8363-6cfb6db161fa.png)
 
 
 
